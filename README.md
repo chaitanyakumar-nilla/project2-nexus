@@ -1,1 +1,2 @@
-Software website for Techy Software
+<h1>Software website for Techy Software</h1>
+<p>Create a dynamic software website using HTML, CSS, and JavaScript. Showcase techy Software's features, provide user-friendly navigation, and implement responsive design for various devices. Incorporate engaging visuals, detailed product descriptions, and interactive elements to enhance user experience. Ensure smooth functionality with JavaScript for dynamic content and user interactions. Optimize the website for performance and compatibility across browsers. Implement a clean and modern design to reflect the innovative nature of techy Software</p>
